@@ -1,3 +1,2 @@
 # A Dell Server Monitor for sky
-# use idrac 
-jksdjfkl
+# use idrac
